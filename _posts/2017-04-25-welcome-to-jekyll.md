@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2017-04-26
+title: "First intro post"
 categories: general
 author_name : Alibek Datbayev
 author_url : /author/alibek
