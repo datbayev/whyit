@@ -1,24 +1,21 @@
 # Site settings
-title: KZ IT
+title: IT в Казахстане
 email: gmegido@gmail.com
-description: > # Writer Theme is a responsive template
- focussed on typography, minimal design and
-  quality photography built using the Jekyll platform.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+description: >
+ made by engineers for future engineers
+baseurl: ""
+url: "http://kzit.netlify.com/"
 enable_retina: false
 permalink: :title
 nav_list:
-  Home : ['Home', '/', 'fa-home']
-  Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
-  Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
-  About : ['About', '/about', 'fa-anchor']
-  Contact : ['Contact', '/contact', 'fa-plane']
-  Author : ['Author', '/author/michelle', 'fa-user']
-single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
+  Home : ['Главная', '/', 'fa-home']
+  About : ['О проекте', '/about', 'fa-anchor']
+  #Contact : ['Contact', '/contact', 'fa-plane']
+  #Author : ['Author', '/author/michelle', 'fa-user']
+single_footer: '<p>Made by developers for developers. #KZIT &copy; 2017 <a href="/">latest posts</a></p>'
 footer_links:
-    About: ['About', '/about']
-    Writer: ['Writer 2016', '/about']
+    About: ['О проекте', '/about']
+    #Writer: ['Writer 2016', '/about']
 
 
 # Build settings
