@@ -4,7 +4,7 @@ email: gmegido@gmail.com
 description: >
  made by engineers for future engineers
 baseurl: ""
-url: "http://kzit.netlify.com/"
+url: "https://whyit.org/"
 enable_retina: false
 permalink: :title
 nav_list:
