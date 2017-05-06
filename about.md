@@ -1,14 +1,20 @@
 ---
 layout: page
-title: About
+title: О проекте
 permalink: /about/
 feature_image: feature-book
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Этот проект существует для того чтобы рассказывать о сфере компьютерной инженерии и быть неким путеводителем для тех кто хочет начать заниматься программированием. Здесь будут истории успеха ИТшников, информация о том чем занимаются ИТшники, и с чего стоит начинать начинающим ИТшникам.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+[//]: # думаю надо создать некий словарь, что бы можно было ссылаться на пояснения слов. например что иммется ввиду под словом ИТшник.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Мы считаем, что программированием нужно начинать заниматься с раннего возраста и поэтому этот сайт предназначен в первую очередь для детей и их родителей. Понимание, родителей что такое информационные технологии (ИТ) и почему это перспективно, играет очень большую роль, так как во многом именно родители решают/влияют на то, чем будет занимается их ребёнок.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius voluptatum tenetur explicabo, vel, praesentium corrupti repudiandae veniam totam reprehenderit, temporibus delectus possimus provident sint rem ex maiores ratione sunt deserunt.
+## Кто мы такие?
+
+Мы являемся открытым объединением ИТ специалистов которые неравнодушны к популяризация компьютерной инженерии среди населения. На данный момент руководителями проекта являются [Алибек Датбаев](https://www.linkedin.com/in/alibekdatbayev/?ppe=1) и [Ильин Герман](https://www.linkedin.com/in/yunmanger/?ppe=1).
+
+Этот проект является проектом с открытым исходным кодом. Это значит, что каждый может предложите свои дополнения и изменения в этот сайт, вы даже можете предложить поправки к этому [предложению](https://github.com/datbayev/whyit/blob/master/about.md). Мы призываем всех неравнодушных присоединиться и помогать создавать контент на этом сайте. Исходники проекта лежат тут - <https://github.com/datbayev/whyit>
+
+Вы можете связаться с нами по почте [hello@whyit.org](mailto:hello@whyit.org)
