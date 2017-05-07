@@ -10,12 +10,13 @@ permalink: :title
 nav_list:
   Home : ['Главная', '/', 'fa-home']
   About : ['О проекте', '/about', 'fa-anchor']
+  Contribute : ['Внести изменения', '/contribute', 'fa-anchor']
   #Contact : ['Contact', '/contact', 'fa-plane']
   #Author : ['Author', '/author/michelle', 'fa-user']
 single_footer: '<p>Made by developers for developers. #KZIT &copy; 2017 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['О проекте', '/about']
-    #Writer: ['Writer 2016', '/about']
+    Contribute: ['Внести изменения', '/contribute']
 
 
 # Build settings
