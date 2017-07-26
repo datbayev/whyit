@@ -47,7 +47,7 @@ title: Вася Пупкин # заголовок Вашей страницы
 ## Шаг 3. Создать **pull request**
 
 Далее, вы просто добавляете изменения в `git` и делает **pull request**. Если Вы знакомы с `git`-ом, то для Вас это
-не должно быть сложно.
+не должно быть сложно. Если нет, то [вот ссылка][pull_instruction] где можете узнать как это делать
 
 Поздравляю! Вы стали автором в [WhyIT.org][whyit]. Теперь пишите посты и делайте свой вклад в развитие IT.
 
@@ -56,3 +56,4 @@ title: Вася Пупкин # заголовок Вашей страницы
 [yml]: https://ru.wikipedia.org/wiki/YAML
 [markdown]: https://ru.wikipedia.org/wiki/Markdown
 [german]: https://whyit.org/german
+[pull_instruction]: https://github.com/urfu-2015/guides/blob/master/how-to-pull-request.md
