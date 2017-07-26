@@ -33,7 +33,7 @@ title: Author
 permalink: author/your_username/ # ссылка для страницы автора
 feature_image: feature-laptop # рисунок для левой панели
 author_avatar: avatar.png # имя рисунка
-author_name: Вася Пупкин # название автора
+author_name: Вася Пупкин # имя автора
 title: Вася Пупкин # заголовок Вашей страницы
 ---
 ```
