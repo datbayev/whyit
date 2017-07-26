@@ -3,7 +3,7 @@ layout: author
 title: Author
 permalink: author/german/
 feature_image: feature-plantpot
-author_avatar: german
+author_avatar: german.jpg
 author_name: Герман Ильин
 title: Герман Ильин
 ---
