@@ -55,5 +55,5 @@ title: Вася Пупкин # заголовок Вашей страницы
 [contribute]: https://whyit.org/contribute
 [yml]: https://ru.wikipedia.org/wiki/YAML
 [markdown]: https://ru.wikipedia.org/wiki/Markdown
-[german]: https://whyit.org/german
+[german]: /author/german
 [pull_instruction]: https://github.com/urfu-2015/guides/blob/master/how-to-pull-request.md
