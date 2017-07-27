@@ -3,7 +3,7 @@ layout: author
 title: Author
 permalink: author/alibek/
 feature_image: feature-plantpot
-author_avatar: alibek
+author_avatar: alibek.jpg
 author_name: Алибек Датбаев
 title: Алибек Датбаев
 ---

@@ -5,7 +5,7 @@ title: "Hello World"
 categories: general
 author_name : Герман Ильин
 author_url : /author/german
-author_avatar: german
+author_avatar: german.jpg
 show_avatar : true
 read_time : 2
 feature_image: feature-wolf
