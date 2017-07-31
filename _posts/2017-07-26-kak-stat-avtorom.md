@@ -10,7 +10,7 @@ show_avatar : true
 read_time : 2
 feature_image: feature-book
 show_related_posts: true
-square_related: recommend-woods
+square_related: recommend-laptop
 ---
 
 Привет, читатель! В этом посте я расскажу как стать автором на этом сайте. Сразу скажу, чтобы это сделать
